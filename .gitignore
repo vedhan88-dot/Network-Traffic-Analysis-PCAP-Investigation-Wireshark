@@ -1,0 +1,25 @@
+# PCAP files
+*.pcap
+*.pcapng
+
+# Archive files
+*.zip
+*.rar
+*.7z
+
+# Potentially dangerous executable files
+*.exe
+*.dll
+*.bin
+*.scr
+*.bat
+*.cmd
+*.ps1
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
